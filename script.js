@@ -1,0 +1,11 @@
+"use strict";
+const num1 = parseInt(prompt('Enter the first number '));
+const num2 = parseInt(prompt('Enter the second number '));
+const addition = num1 + num2;
+const subtraction = num1 - num2;
+const multiplication = num1 * num2;
+const division = num1 / num2;
+console.log( addition );
+console.log( subtraction );
+console.log( multiplication );
+console.log( division );
